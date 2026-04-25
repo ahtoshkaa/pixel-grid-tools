@@ -22,7 +22,7 @@ Clean 64 by 64 pixel-art output:
 
 Opened in Photoshop:
 
-![Clean pixel art opened in Photoshop](test1_64x64_photoshop.png)
+![Clean pixel art opened in Photoshop](examples/test1_64x64_photoshop.png)
 
 ## What this does
 
