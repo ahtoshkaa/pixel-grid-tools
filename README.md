@@ -14,7 +14,7 @@ using the following grid create an pixel art image of a kitten playing with a ba
 
 Generated image on the grid:
 
-![Generated kitten pixel art on a grid](examples/chatgpt-grid-preview.jpg)
+![Generated kitten pixel art on a grid](examples/test1.png)
 
 Clean 64 by 64 pixel-art output:
 
@@ -22,7 +22,7 @@ Clean 64 by 64 pixel-art output:
 
 Opened in Photoshop:
 
-![Clean pixel art opened in Photoshop](examples/photoshop-preview.jpg)
+![Clean pixel art opened in Photoshop](test1_64x64_photoshop.png)
 
 ## What this does
 
