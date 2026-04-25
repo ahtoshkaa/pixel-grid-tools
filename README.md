@@ -2,6 +2,26 @@
 
 Small Python tools for making a pixel-art prompt grid and removing that grid after an image generator fills it in.
 
+## Example
+
+Prompt used in ChatGPT:
+
+```text
+using the following grid create an pixel art image of a kitten playing with a ball. the colors should by contained by the grid and not bleed out.
+```
+
+Generated image on the grid:
+
+![Generated kitten pixel art on a grid](examples/chatgpt-grid-preview.jpg)
+
+Clean 64 by 64 pixel-art output:
+
+![Clean 64 by 64 kitten pixel art](examples/clean-64x64.png)
+
+Opened in Photoshop:
+
+![Clean pixel art opened in Photoshop](examples/photoshop-preview.jpg)
+
 ## What this does
 
 - `create_grid_image.py` creates a white square PNG with a thin black grid.
