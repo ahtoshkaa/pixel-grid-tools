@@ -1,6 +1,8 @@
 # Pixel Grid Tools
 
-Small Python tools for making a pixel-art prompt grid and removing that grid after an image generator fills it in.
+A simple workflow for turning AI-generated "pixel art" into an actual fixed-size pixel image.
+
+Most image generators can make something that looks like pixel art, but the result is usually a normal high-resolution image with soft edges, uneven squares, or colors that drift between cells. This project gives the generator a visible 64 by 64 grid to follow, then removes that grid afterward by sampling the inside of each cell. The result is a real 64 by 64 pixel-art image that can be scaled up cleanly or opened in tools like Photoshop, Aseprite, or game engines.
 
 ## Example
 
